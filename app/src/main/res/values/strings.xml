@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NovoRecycle</string>
+    <string name="vazio" > </string>
+    <string name="hintNOme">Entre com o nome</string>
+</resources>
