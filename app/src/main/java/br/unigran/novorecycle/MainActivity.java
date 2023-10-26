@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
 
                         pessoas.add(dados.getValue(Pessoa.class));
                     }
-
+                    recyclerView.getAdapter().notifyDataSetChanged();
                 }
 
             }

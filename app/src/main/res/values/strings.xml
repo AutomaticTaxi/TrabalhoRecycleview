@@ -2,4 +2,7 @@
     <string name="app_name">NovoRecycle</string>
     <string name="vazio" > </string>
     <string name="hintNOme">Entre com o nome</string>
+    <string name="salvar">Salvar</string>
+    <string name="editar">Editar</string>
+    <string name="phone">Phone</string>
 </resources>
